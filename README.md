@@ -6,6 +6,7 @@ Scripts for computing the heredity detection metric on a data set.
 Requirements: numpy, scikit-learn
 
 Usage: python ./computemetric.py datafile.txt
+
 Output: The detected number of heritable states 
 
 Data file format:
